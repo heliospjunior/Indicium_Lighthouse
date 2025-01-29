@@ -8,7 +8,7 @@ Esse é um projeto para a etapa do desafio técnico  do projeto Lighthouse, da e
 ## Questionário
 As respostas do desafio se encontram no final do notebook. 
 
-##Sobre o projeto
+## Sobre o projeto
 
 Este projeto requer Python e as bibliotecas do arquivo requeriments.txt
 Em caso de conflito, pode ser necessário criar um novo ambiente virtual Python, sendo que o projeto pode ser executado em qualquer plataforma Jupyter Notebook.
